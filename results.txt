@@ -1,0 +1,12 @@
+0 	Krishna  	70
+1 	John  	56
+2 	Ram  	2
+3 	Hit  	3
+4 	Lord  	4
+5 	Jesus  	55
+6 	Jonas  	3
+7 	Sofia  	1
+8 	Jonny  	6
+9 	Krishna  	4
+10 	John  	3
+

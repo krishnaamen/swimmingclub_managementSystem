@@ -1,0 +1,34 @@
+Krishna        Khanal   38           718981918          krishna@gmail.com            12/01/2019           Senior1          Active      Fresyle
+
+John           Smith 44           2133434            john@gmail.com            12/10/2018           Senior1             Active         Butterfly
+
+Maria          smith 12           34334534            maria@gmail.com            12/10/2020           Junior            Passive        no
+
+Ram            Prasad   68           23232323            ram@gmail.com            12/1/2017           Senior2              Active      no      
+
+Hari           Krish 45           32323232            hari@gmail.com            12/2/2019           Senior1             Passive        no
+
+Sita           lal   69           232323232            sit@kajfk.com            12/2/2018           Senior2             Passive        no
+
+Hit            Man   18           234343555            hit@yahoo.com            01/01/2020         Senior1              Active         Backstroke
+
+Lord           Khan  15           12331212             lord@hotmail.com         14/02/2019         Junior               Active         Freestyle       
+
+Jesus          wanju 22           23311333             j@tmail.com              12/3/2020          Senior1              Active         Backstroke
+
+Jonas           Kim  45           43343434            jk@gmail.com            24/12/2018           Senior1              Active         Freestyle
+
+Sofia           Kim  68           6587487            s@gam.com            4/2/2019                 Senior2              Active         no
+
+Maya           Kill  56           223323            maya@gmail.com            23/12/2019           Senior1              Passive        no
+
+Jonny           Dahl 45           3232323            jd@gmail.com            03/2/2019             Senior1              Active         Butterfly
+
+Nil           sharma 55           343434            n@akjfk.com            3/5/2019                Senior1              Active         Backstroke
+
+Jong           Zang  45           232342424            jong@gmail.com            23/10/2020           Senior1          Active          Freestyle
+
+Joncy           chacha            34           4342323            chacha@gmail.com            23/3/2019           Senior1          Active     Butterfly
+
+omar           krishna            25           1245            m@mil.com            10/10/2019           Senior1          Active     Butterfly
+
